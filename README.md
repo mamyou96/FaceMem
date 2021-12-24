@@ -8,12 +8,12 @@ There are samples horses as an example of experiment of with stylegan2 and non-f
 
 Reference:
 https://github.com/NVlabs/stylegan2
-# BigGAN-deep models
+### BigGAN-deep models
 https://tfhub.dev/deepmind/biggan-deep-128/1  # 128x128 BigGAN-deep
 https://tfhub.dev/deepmind/biggan-deep-256/1  # 256x256 BigGAN-deep
 https://tfhub.dev/deepmind/biggan-deep-512/1  # 512x512 BigGAN-deep
 
-# BigGAN (original) models
+### BigGAN (original) models
 https://tfhub.dev/deepmind/biggan-128/2  # 128x128 BigGAN
 https://tfhub.dev/deepmind/biggan-256/2  # 256x256 BigGAN
 https://tfhub.dev/deepmind/biggan-512/2  # 512x512 BigGAN
