@@ -9,14 +9,14 @@ There are samples horses as an example of experiment of with stylegan2 and non-f
 Reference:
 https://github.com/NVlabs/stylegan2
 ### BigGAN-deep models
-https://tfhub.dev/deepmind/biggan-deep-128/1  # 128x128 BigGAN-deep
-https://tfhub.dev/deepmind/biggan-deep-256/1  # 256x256 BigGAN-deep
-https://tfhub.dev/deepmind/biggan-deep-512/1  # 512x512 BigGAN-deep
+[128x128 BigGAN-deep](https://tfhub.dev/deepmind/biggan-deep-128/1)\
+[256x256 BigGAN-deep](https://tfhub.dev/deepmind/biggan-deep-256/1)\
+[512x512 BigGAN-deep](https://tfhub.dev/deepmind/biggan-deep-512/1)
 
 ### BigGAN (original) models
-https://tfhub.dev/deepmind/biggan-128/2  # 128x128 BigGAN
-https://tfhub.dev/deepmind/biggan-256/2  # 256x256 BigGAN
-https://tfhub.dev/deepmind/biggan-512/2  # 512x512 BigGAN
+[128x128 BigGAN](https://tfhub.dev/deepmind/biggan-128/2)\
+[256x256 BigGAN](https://tfhub.dev/deepmind/biggan-256/2)\
+[512x512 BigGAN](https://tfhub.dev/deepmind/biggan-512/2)
 
-face assessors can be find from: 
+Face assessors can be find from: 
 https://drive.google.com/drive/folders/11NQx5R8vnch3YHcE7TL-URFfR6Rh7aNg?usp=sharing
